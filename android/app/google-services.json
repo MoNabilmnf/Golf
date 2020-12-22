@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "191796396666",
+    "project_id": "notification-a6990",
+    "storage_bucket": "notification-a6990.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191796396666:android:cecbe8f8e5a81cb4a971c3",
+        "android_client_info": {
+          "package_name": "com.example.golf_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191796396666-bc05s4oasrhir06p7cumji0h0csoek7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDNEF5cuPkHC3xCaIgITGXRbu_MHjX1Rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191796396666-bc05s4oasrhir06p7cumji0h0csoek7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191796396666:android:9d62834ccece862ca971c3",
+        "android_client_info": {
+          "package_name": "com.example.messagesf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191796396666-bc05s4oasrhir06p7cumji0h0csoek7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDNEF5cuPkHC3xCaIgITGXRbu_MHjX1Rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191796396666-bc05s4oasrhir06p7cumji0h0csoek7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
